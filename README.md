@@ -14,15 +14,15 @@ x install plann
 
 ## Code insight
 
-Total: **4,832** lines of code across **43** files in the top 5 languages.
+Total: **5,125** lines of code across **43** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 4,655 | 417 | 725 | 25 |
+| Python | 4,948 | 429 | 760 | 25 |
 | Toml | 99 | 15 | 17 | 2 |
 | Makefile | 64 | 15 | 14 | 2 |
 | ReStructuredText | 14 | 0 | 6 | 1 |
-| Markdown | 0 | 1,500 | 772 | 13 |
+| Markdown | 0 | 1,508 | 776 | 13 |
 
 ## Source
 
@@ -32,26 +32,26 @@ Total: **4,832** lines of code across **43** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.0` (2024-12-01)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-19
 
 ## Popularity
 
-- **Stars**: 83 · **Forks**: 10 · **Open issues**: 49 · **Contributors**: 16
+- **Stars**: 83 · **Forks**: 10 · **Open issues**: 51 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 22 · **Open PRs**: 1 · **Closed issues**: 24 · **Open issues**: 25 · **Commits**: 490
+- **Releases**: 1 · **Merged PRs**: 24 · **Open PRs**: 2 · **Closed issues**: 24 · **Open issues**: 27 · **Commits**: 497
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-29 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-30 | 1 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for plann lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:39:34Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:49:05Z._
