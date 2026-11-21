@@ -4,7 +4,7 @@
   visiblename: plann
   version: 1.1.1
   origversion: 1.1.1-1
-  status: unique
+  status: outdated
   summary: plann is a caldav client for calendar and task management
   maintainers:
     - tobixen@aur
@@ -23,3 +23,17 @@
     - tobixen@aur
   licenses:
     - GPL
+- repo: nix_unstable
+  srcname: plann
+  visiblename: plann
+  version: 1.3.0
+  origversion: null
+  status: newest
+  summary: Command-line interface to calendars
+  maintainers:
+    - fedi.jamoussi@protonmail.ch
+    - ethan@ethancedwards.com
+    - phanirithvij2000@gmail.com
+    - prc.zhao@outlook.com
+  licenses:
+    - GPL-3.0-or-later
